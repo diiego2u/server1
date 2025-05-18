@@ -196,3 +196,75 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [18May2025 23:44:04.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YoungRichFlacko blew up
 [18May2025 23:44:04.775] [Server thread/INFO] [tombstone/]: The player YoungRichFlacko has successfully been saved
 [18May2025 23:44:13.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YoungRichFlacko has made the advancement [Stone Age]
+[18May2025 23:48:46.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set own game mode to Creative Mode]
+[18May2025 23:49:28.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Teleported 1diiiego to YoungRichFlacko]
+[18May2025 23:51:37.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set spawn point to -2008, 88, 251 [0.0] in minecraft:overworld for YoungRichFlacko]
+[18May2025 23:51:46.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YoungRichFlacko was killed
+[18May2025 23:51:46.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed YoungRichFlacko]
+[18May2025 23:51:46.342] [Server thread/INFO] [tombstone/]: The player YoungRichFlacko has successfully been saved
+[18May2025 23:51:52.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Teleported 1diiiego to YoungRichFlacko]
+[18May2025 23:52:00.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego was killed
+[18May2025 23:52:00.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego has made the advancement [Your First Grave]
+[18May2025 23:52:00.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:52:00.933] [Server thread/INFO] [tombstone/]: The player 1diiiego has successfully been saved
+[18May2025 23:52:04.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YoungRichFlacko has reached the goal [Here They Come]
+[18May2025 23:52:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Teleported 1diiiego to YoungRichFlacko]
+[18May2025 23:52:30.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set the world spawn point to -2008, 88, 251 [0.0]]
+[18May2025 23:52:38.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:52:50.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Killed 1diiiego]
+[18May2025 23:52:51.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set the world spawn point to -2008, 87, 251 [0.0]]
+[18May2025 23:52:57.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Set own game mode to Survival Mode]
+[18May2025 23:52:59.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Killed 1diiiego]
+[18May2025 23:53:04.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:53:29.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Teleported 1diiiego to YoungRichFlacko]
+[18May2025 23:53:33.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego was kicked for floating too long!
+[18May2025 23:53:33.415] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego lost connection: Flying is not enabled on this server
+[18May2025 23:53:33.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego left the game
+[18May2025 23:53:36.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set the world spawn point to -1824, 120, 348 [0.0]]
+[18May2025 23:53:41.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1diiiego[/127.166.59.103:51923] logged in with entity id 13839 at (-1829.9643337753994, 103.50675585301441, 332.59292844813444)
+[18May2025 23:53:41.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego joined the game
+[18May2025 23:53:41.374] [Server thread/INFO] [Jade/]: Syncing config to 1diiiego (b29720b2-9535-3db9-946a-c053638c1576)
+[18May2025 23:53:47.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego was kicked for floating too long!
+[18May2025 23:53:47.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego lost connection: Flying is not enabled on this server
+[18May2025 23:53:47.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego left the game
+[18May2025 23:53:55.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1diiiego[/127.166.59.103:45809] logged in with entity id 13921 at (-1830.1420590201412, 88.43330612092737, 334.9981528860572)
+[18May2025 23:53:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego joined the game
+[18May2025 23:53:55.608] [Server thread/INFO] [Jade/]: Syncing config to 1diiiego (b29720b2-9535-3db9-946a-c053638c1576)
+[18May2025 23:53:56.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:00.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:01.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego was kicked for floating too long!
+[18May2025 23:54:01.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego lost connection: Flying is not enabled on this server
+[18May2025 23:54:01.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego left the game
+[18May2025 23:54:07.017] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1diiiego[/127.166.59.103:33579] logged in with entity id 13976 at (-1821.7800960955399, 73.22795082139511, 334.2337577425851)
+[18May2025 23:54:07.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego joined the game
+[18May2025 23:54:07.066] [Server thread/INFO] [Jade/]: Syncing config to 1diiiego (b29720b2-9535-3db9-946a-c053638c1576)
+[18May2025 23:54:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:16.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:17.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:17.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:18.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:19.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:19.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:20.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:20.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:21.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:22.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:22.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:23.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:24.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:24.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego was killed
+[18May2025 23:54:24.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:24.917] [Server thread/INFO] [tombstone/]: The player 1diiiego has successfully been saved
+[18May2025 23:54:25.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:54:38.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego was kicked for floating too long!
+[18May2025 23:54:39.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 1diiiego lost connection: Flying is not enabled on this server
+[18May2025 23:54:39.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego left the game
+[18May2025 23:54:58.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1diiiego[/127.166.59.103:53521] logged in with entity id 14219 at (-1822.1147506079692, 67.90667740728323, 355.18369395027224)
+[18May2025 23:54:58.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego joined the game
+[18May2025 23:54:58.207] [Server thread/INFO] [Jade/]: Syncing config to 1diiiego (b29720b2-9535-3db9-946a-c053638c1576)
+[18May2025 23:55:25.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego has reached the goal [Chain Death]
+[18May2025 23:55:25.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego was killed whilst fighting Skeleton
+[18May2025 23:55:25.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Killed 1diiiego]
+[18May2025 23:55:25.406] [Server thread/INFO] [tombstone/]: The player 1diiiego has successfully been saved
+[18May2025 23:55:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set the time to 1000]
+[18May2025 23:55:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set own game mode to Survival Mode]

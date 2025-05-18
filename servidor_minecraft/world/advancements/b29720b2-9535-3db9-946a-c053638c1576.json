@@ -13,8 +13,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-18 23:49:29 +0000",
+      "minecraft:beach": "2025-05-18 23:49:19 +0000",
       "minecraft:river": "2025-05-18 23:21:32 +0000",
-      "minecraft:swamp": "2025-05-18 23:16:37 +0000"
+      "minecraft:swamp": "2025-05-18 23:16:37 +0000",
+      "minecraft:ocean": "2025-05-18 23:50:54 +0000"
     },
     "done": false
   },
@@ -158,7 +161,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2025-05-18 23:21:23 +0000"
+      "mystic_grove": "2025-05-18 23:51:07 +0000",
+      "coniferous_forest": "2025-05-18 23:21:23 +0000",
+      "redwood_forest": "2025-05-18 23:54:27 +0000",
+      "dune_beach": "2025-05-18 23:54:11 +0000"
     },
     "done": false
   },
@@ -375,6 +381,24 @@
   "securitycraft:recipes/building_blocks/deepslate_emerald_mine": {
     "criteria": {
       "has_mine": "2025-05-18 23:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-05-18 23:43:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-18 23:52:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-18 23:52:03 +0000"
     },
     "done": true
   },
