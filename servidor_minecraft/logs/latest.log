@@ -194,3 +194,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19May2025 22:48:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set own game mode to Survival Mode]
 [19May2025 22:48:55.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YoungRichFlacko lost connection: Disconnected
 [19May2025 22:48:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YoungRichFlacko left the game
+[19May2025 23:31:43.053] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player 1diiiego is afbe7424-3961-4068-a621-732884bff205
+[19May2025 23:31:45.389] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 1diiiego[/127.166.59.103:42939] logged in with entity id 5113 at (834.7116781529932, 95.0, -1956.3889347841289)
+[19May2025 23:31:45.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1diiiego joined the game
+[19May2025 23:31:45.441] [Server thread/INFO] [Jade/]: Syncing config to 1diiiego (afbe7424-3961-4068-a621-732884bff205)
+[19May2025 23:31:45.468] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[19May2025 23:34:15.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Teleported 1diiiego to 595.500000, 103.500000, -2103.500000]
+[19May2025 23:35:11.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [1diiiego: Gave 64 [Iron Ore] to 1diiiego]
