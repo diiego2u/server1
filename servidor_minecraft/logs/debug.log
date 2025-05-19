@@ -2290,3 +2290,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19May2025 22:29:23.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19May2025 22:34:23.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19May2025 22:34:23.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 22:39:23.550] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 22:39:23.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 22:44:23.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 22:44:23.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 22:48:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YoungRichFlacko: Set own game mode to Survival Mode]
+[19May2025 22:48:55.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YoungRichFlacko lost connection: Disconnected
+[19May2025 22:48:55.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YoungRichFlacko left the game
