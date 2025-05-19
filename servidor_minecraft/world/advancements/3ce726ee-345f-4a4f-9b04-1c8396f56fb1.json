@@ -2981,5 +2981,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/spruce_hedge": {
+    "criteria": {
+      "has_spruce_leaves": "2025-05-19 22:25:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
